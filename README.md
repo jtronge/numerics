@@ -1,3 +1,1 @@
-# Numerical computing experiments
-
-## Data sets
+# Numerical computing library for Rust
